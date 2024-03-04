@@ -1,0 +1,2 @@
+WORKDIR /tmp
+USER root
